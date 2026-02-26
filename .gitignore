@@ -7,5 +7,6 @@ nbproject/
 test/
 
 # Ignore files
-build
-manifest
+build.xml
+manifest.mf
+desktop.ini
