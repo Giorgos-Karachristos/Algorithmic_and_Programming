@@ -1,5 +1,6 @@
 # Algorithmic & Programming
 This repository contains the solutions to the exercises from the lab Algorithmic & Programming
+
 Rules:
 1. Follow the description of each exercise.
 2. Always print outputs in English.
